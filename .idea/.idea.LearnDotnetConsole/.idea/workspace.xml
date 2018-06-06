@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cef73db-8784-4e1b-b871-b6f9bee19c80" name="Default" comment="" />
+    <list default="true" id="1cef73db-8784-4e1b-b871-b6f9bee19c80" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Program.cs" afterPath="$PROJECT_DIR$/Program.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +16,12 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
-                <marker date="1528279844114" expanded="true" signature="6:47" ph="..." />
-                <marker date="1528279844114" expanded="true" signature="77:2980" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="104:2978" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="145:1147" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="384:504" ph="/* var ageString = Console.ReadLine(); ... */" />
-                <marker date="1528279844114" expanded="true" signature="562:708" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1184:1343" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1392:1472" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1540:1807" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1702:1770" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1874:2192" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="1964:2048" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="2065:2149" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="2277:2972" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="2385:2490" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="2703:2797" ph="{...}" />
-                <marker date="1528279844114" expanded="true" signature="2814:2908" ph="{...}" />
+                <marker date="1528281340204" expanded="true" signature="43:236" ph="{...}" />
+                <marker date="1528281340204" expanded="true" signature="70:234" ph="{...}" />
+                <marker date="1528281340204" expanded="true" signature="111:228" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -154,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528275809379</updated>
-      <workItem from="1528275812254" duration="4339000" />
+      <workItem from="1528275812254" duration="4687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4339000" />
+    <option name="totallyTimeSpent" value="4687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,6 +160,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2116" y="-169" width="2065" height="1145" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -181,7 +170,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17433414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17433414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -205,20 +194,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Program.cs</url>
-          <line>90</line>
-          <properties documentPath="$PROJECT_DIR$/Program.cs" initialLine="90">
-            <startOffsets>
-              <startOffset value="2300" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="2345" />
-            </endOffsets>
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -234,26 +209,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <marker date="1528279844114" expanded="true" signature="6:47" ph="..." />
-            <marker date="1528279844114" expanded="true" signature="77:2980" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="104:2978" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="145:1147" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="384:504" ph="/* var ageString = Console.ReadLine(); ... */" />
-            <marker date="1528279844114" expanded="true" signature="562:708" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1184:1343" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1392:1472" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1540:1807" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1702:1770" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1874:2192" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="1964:2048" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="2065:2149" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="2277:2972" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="2385:2490" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="2703:2797" ph="{...}" />
-            <marker date="1528279844114" expanded="true" signature="2814:2908" ph="{...}" />
+            <marker date="1528281340204" expanded="true" signature="43:236" ph="{...}" />
+            <marker date="1528281340204" expanded="true" signature="70:234" ph="{...}" />
+            <marker date="1528281340204" expanded="true" signature="111:228" ph="{...}" />
           </folding>
         </state>
       </provider>

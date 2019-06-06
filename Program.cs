@@ -10,15 +10,7 @@ namespace LearnDotnetConsole
             Console.WriteLine("How do you like your coffee?");
                         Console.WriteLine("What is your name?");
 
-            Console.WriteLine("What are your favourite foods");
-
-            var foodString = Console.ReadLine();
-            
-            var list = GetFoodList(foodString); 
-
-            Console.WriteLine($"My favourite food is { PickAFood(list)}");
-
-            Console.ReadKey();
+        
         }
 
         private static int CheckAge(string ageString)
